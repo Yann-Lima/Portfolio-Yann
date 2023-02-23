@@ -1,2 +1,2 @@
 # Portfolio-Yann
-Personal Portfolio
+Professional Portfolio
